@@ -2,7 +2,7 @@ title: Binghamton University Data Science and Analytics
 description: Information and resources for the Binghamton University Data Science and Analytics Club
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
