@@ -11,4 +11,5 @@ Analytics is the discovery, interpretation, and communication of meaningful patt
 * Excel and PowerPivot
 
 [Resources](https://github.com/budatascienceandanalytics/resources/wiki)
+
 [test page](https://github.com/budatascienceandanalytics/page)
