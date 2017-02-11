@@ -12,4 +12,4 @@ Analytics is the discovery, interpretation, and communication of meaningful patt
 
 [Resources](https://github.com/budatascienceandanalytics/resources/wiki)
 
-[test page](https://github.com/budatascienceandanalytics/page)
+[test page](https://budatascienceandanalytics.github.io/page.html)
