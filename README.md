@@ -40,5 +40,5 @@ Information and resources for a new student organization
 * You want to make your changes to a branch and then merge it with the master when it is ready to go live
 * If you are making a minor change you can "commit to a new branch and start a pull request"
 * If you are making a major change, it is better to create a new branch first and make commits to that branch
-* When you are finished then you start a pull request.
-* When you are satisfied with what you have, you can then merge it into the master branch
+* When you are finished then you start a pull request
+* When you are satisfied with what you have, you can then merge the pull request into the master branch
