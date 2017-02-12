@@ -34,3 +34,5 @@ Information and resources for a new student organization (test?)
 
 ### Changing the webpage headers
 * I have no idea how to do this yet
+* This text comes from the repository metadata that was set on creation
+* It might be worth starting a dummy website from scratch to test this out
