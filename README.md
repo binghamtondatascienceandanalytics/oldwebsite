@@ -33,6 +33,8 @@ Information and resources for a new student organization (test?)
 * Refresh the webpage to see the results
 
 ### Changing the webpage headers
-* I have no idea how to do this yet
+* Not clear how to do this yet
 * This text comes from the repository metadata that was set on creation
+* May be necessary to move all the content to a new repository
+* Then delete the old repository and rename the new one
 * It might be worth starting a dummy website from scratch to test this out
