@@ -32,3 +32,5 @@ Information and resources for a new student organization (test?)
 * Click on "Select theme" to save your selection
 * Refresh the webpage to see the results
 
+### Changing the webpage headers
+* I have no idea how to do this yet
