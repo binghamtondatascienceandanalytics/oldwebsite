@@ -1,4 +1,4 @@
-# [BUDataScienceandAnalytics.Github.io](BUDataScienceandAnalytics.Github.io)
+# [BUDataScienceandAnalytics.Github.io](https://budatascienceandanalytics.github.io)
 Information and resources for a new student organization
 ## How to make changes to the website
 * The website content is in the `md` files above (except for README.md which is this file)
