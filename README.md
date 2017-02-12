@@ -33,4 +33,4 @@ Information and resources for a new student organization
 * Refresh the webpage to see the results
 
 ### Changing the webpage headers
-* The text for the headers (Title and description) are in the `\_config.yml` file
+* The text for the headers (Title and description) are in the `_config.yml` file
