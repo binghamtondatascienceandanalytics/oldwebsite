@@ -36,7 +36,7 @@ Information and resources for a new student organization
 * The text for the headers (title and description) are in the `_config.yml` file
 
 ## One *slight* problem with everything above
-* it is considered very bad practice to "commit to the master" and you don't want to make a habit of it
+* It is considered very bad practice to "commit to the master" and you don't want to make a habit of it
 * You want to make your changes to a branch and then merge it with the master when it is ready to go live
 * If you are making a minor change you can "commit to a new branch and start a pull request"
 * If you are making a major change, it is better to create a new branch first and make commits to that branch
