@@ -1,9 +1,9 @@
 # [BUDataScienceandAnalytics.Github.io](https://budatascienceandanalytics.github.io)
 Information and resources for a new student organization
 ### Please read before making changes to the website (or anything on GitHub for that matter)
-It is considered very bad practice to make changes directly to production code. The code for this website is on the _master branch_ and any changes to it (or _commits_) will be immediately published to the website, possibly breaking it.  So you want to be careful not to "commit to the master" branch.
+It is considered very bad practice to make changes directly to production code. The code for this website is on the _master branch_ and any changes to it (or _commits_) will be immediately published to the website, possibly breaking it.  So you want to be careful not to "commit to master."
 
-### GitHub Flow
+### [GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ## How to make changes to the website
 * The website content is in the `md` files above (except for README.md which is this file)
