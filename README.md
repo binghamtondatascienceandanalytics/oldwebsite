@@ -1,5 +1,8 @@
 # [BUDataScienceandAnalytics.Github.io](https://budatascienceandanalytics.github.io)
 Information and resources for a new student organization
+## Before making changes to the website (or anything on GitHub for that matter)
+It is considered very bad practice to make changes directly to production code. The code for this website is on the master branchThis is called "commit to the master"
+
 ## How to make changes to the website
 * The website content is in the `md` files above (except for README.md which is this file)
 * Index.md has the content for the main page
@@ -11,7 +14,7 @@ Information and resources for a new student organization
 ### Markdown formatting
 * Headings start with #, ##, and ###
 * Paragraphs are separated by a blank line, line breaks by two spaces at the end of a line
-* Character formatting is \*italic\*=*italic* \*\*bold\*\*=**bold** and \`monospace\`=`monospace`
+* Character formatting is \_italic\_=_italic_ \*\*bold\*\*=**bold** and \`monospace\`=`monospace`
 * Bullet lists start with a "\*" on each line, numbered lists start with "1." etc.
 * Links are created with `[link](http://example.com)`=[link](http://example.com)
 
