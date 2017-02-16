@@ -13,3 +13,5 @@ Here are some popular SQLLite management tools:
 * SQLite Manager (Firefox plug-in)
 * SQLiteStudio
 * SQL Expert
+
+[back](https://budatascienceandanalytics.github.io)
