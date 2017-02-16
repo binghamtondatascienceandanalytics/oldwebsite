@@ -33,7 +33,7 @@ It is considered very bad practice to make changes directly to production code. 
 * Add your content
 * Make sure there is a link back to `https://budatascienceandanalytics.github.io`
 * Save the new page by clicking "Commit changes"
-* Add a link from the main page to `https://budatascienceandanalytics.github.io/newpage.html`
+* Add a link from the main page to `newpage.html`
 * Note that changing the `.md` page causes the `.html` page to be updated
 
 ### Changing the website style
@@ -46,12 +46,3 @@ It is considered very bad practice to make changes directly to production code. 
 
 ### Changing the webpage headers
 * The text for the headers (title and description) are in the `_config.yml` file
-
-## One *slight* problem with everything above
-* It is considered very bad practice to "commit to the master" and you don't want to make a habit of it
-* You want to make your changes to a branch and then merge it with the master when it is ready to go live
-* If you are making a minor change you can "commit to a new branch and start a pull request"
-* If you are making a major change, it is better to create a new branch first and make commits to that branch
-* When you are finished with your commits you can then start a pull request, and maybe show it to others
-* When you are satisfied with what you have, you can then merge the pull request into the master branch
-* If the merge breaks the website, you can easily "revert" it back to the old version while you work on the problem
