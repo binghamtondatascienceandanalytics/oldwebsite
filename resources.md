@@ -1,4 +1,4 @@
-#Excel and Access
+# Excel and Access
 
 There are two ways for Binghamton University students to use excel and access for free. 
 * Go [here](https://products.office.com/en-us/student) and enter your binghamton email address to receive a free subscription to microsoft 360, which includes both Excel and Accces. 
