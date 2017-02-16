@@ -10,6 +10,6 @@ Analytics is the discovery, interpretation, and communication of meaningful patt
 * SQL – PostgreSQL or Microsoft SQL Server Express
 * Excel and PowerPivot
 
-[Resources](https://github.com/budatascienceandanalytics/resources/wiki)
+[Resources](resources.html)
 
-[test page](page.html)
+[Schedule of Events](page.html)
