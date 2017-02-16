@@ -23,7 +23,7 @@ It is considered very bad practice to make changes directly to production code. 
 ### Markdown formatting
 * Headings start with #, ##, and ###
 * Paragraphs are separated by a blank line, line breaks by two spaces at the end of a line
-* Character formatting is \_italic\_=_italic_ \*\*bold\*\*=**bold** and \`monospace\`=`monospace`
+* Character formatting is: \_italic\_=_italic_, \*\*bold\*\*=**bold**, and \`monospace\`=`monospace`
 * Bullet lists start with a "\*" on each line, numbered lists start with "1." etc.
 * Links are created with `[link](http://example.com)`=[link](http://example.com)
 
