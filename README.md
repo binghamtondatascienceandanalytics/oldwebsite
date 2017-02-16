@@ -8,8 +8,8 @@ It is considered very bad practice to make changes directly to production code. 
 2. Create a new branch ("Branch:" button) and enter a _short and descriptive_ name (issue-_nn_ works well)
 3. Switch to the new branch ("Branch:" button) and make your edits (see below for more info)
 4. When finished with all your edits (and while still in your branch) open a "New pull request"
-5. Show it to others if needed, when satisfied merge the pull request into the master branch
-6. If the website breaks, revert the merge while you fix the problem
+5. Show it to others if needed and when satisfied _merge_ the pull request into the master branch
+6. If the website breaks, _revert_ the merge while you fix the problem
 7. Close the issue
 
 ## How to make changes to the website
