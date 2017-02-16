@@ -12,4 +12,4 @@ Analytics is the discovery, interpretation, and communication of meaningful patt
 
 [Resources](resources.html)
 
-[Schedule of Events](page.html)
+[Schedule of Events](events.html)
