@@ -1,3 +1,5 @@
-###Schedule of Events
+# Schedule of Events
 
-[back](https://budatascienceandanalytics.github.io)
+Follow our [facebook page](https://www.facebook.com/BingDSA/) or join our newsletter for updates and events.
+
+[back to main](https://budatascienceandanalytics.github.io)
